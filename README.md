@@ -1,9 +1,3 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Nuxt Version of Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
-
-> [LIVE DEMO](https://tailwind-landing-page-nuxt.netlify.com/)
-
-[Nuxt Version Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source landing page template for [Tailwind CSS](https://tailwindcss.com/) specificly for the [Nuxt.js](https://nuxtjs.org/) framework created by [Vannsl](https://github.com/Vannsl) for the [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
-
 ![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
 
 ## Build Setup
